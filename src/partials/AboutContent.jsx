@@ -8,7 +8,7 @@ function AboutContent() {
 
           <div className="max-w-3xl mx-auto">
             <div className="text-lg text-slate-500">
-              <h2 className="h3 font-playfair-display text-slate-800 mb-4">Our Story</h2>
+              <h2 className="h3 font-asap-display text-slate-800 mb-4">Our Story</h2>
               <p className="mb-8">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum. Neque sodales ut etiam sit amet how to manage. Malesuada proin libero nunc consequat interdum varius. Quam pellentesque nec nam aliquam sem et tortor consequat. Pellentesque adipiscing commodo elit at imperdiet. Semper auctor neque <strong className="font-medium text-slate-800">vitae tempus quam pellentesque</strong> nec. Amet dictum sit amet justo donec enim diam. Varius sit amet mattis vulputate enim nulla aliquet porttitor. Odio pellentesque diam volutpat commodo sed. Elit sed vulputate mi sit amet mauris commodo quis imperdiet.
               </p>

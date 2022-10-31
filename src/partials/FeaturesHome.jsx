@@ -30,7 +30,7 @@ function FeaturesHome() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12">
-            <h2 className="h2 font-playfair-display text-slate-800 mb-4">Built exclusively for you</h2>
+            <h2 className="h2 font-asap-display text-slate-800 mb-4">Built exclusively for you</h2>
             <p className="text-xl text-slate-768">Excepteur s474 occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.</p>
           </div>
 

@@ -15,7 +15,7 @@ function Testimonials() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 font-playfair-display text-slate-800">What our customers are saying about us</h2>
+            <h2 className="h2 font-asap-display text-slate-800">What our customers are saying about us</h2>
           </div>
           {/* Testimonials container */}
           <div className="max-w-sm mx-auto sm:max-w-none grid gap-12 sm:grid-cols-2 md:grid-cols-3 sm:gap-x-6 sm:gap-y-8 items-start mb-12 md:mb-16" data-aos-id-testimonials>

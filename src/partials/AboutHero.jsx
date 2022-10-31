@@ -19,7 +19,7 @@ function AboutHero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-16">
-            <h1 className="h1 font-playfair-display text-slate-100">We're designing a new way to do business</h1>
+            <h1 className="h1 font-asap-display text-slate-100">We're designing a new way to do business</h1>
           </div>
 
           {/* Hero image */}

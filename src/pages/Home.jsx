@@ -10,7 +10,7 @@ import Target from '../partials/Target';
 import PricingSection from '../partials/PricingSection';
 import Cta from '../partials/Cta';
 import Footer from '../partials/Footer';
-
+import SocialProof from '../partials/SocialProof';
 function Home() {
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
@@ -23,6 +23,7 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
+        <SocialProof/>
         <FeaturesBlocks />
         <FeaturesHome />
         <FeaturesHome02 />

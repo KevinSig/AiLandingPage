@@ -8,7 +8,7 @@ function PricingFeatures() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto lg:mx-0 text-center lg:text-left pb-12 md:pb-20">
-            <h2 className="h2 font-playfair-display text-slate-800">It's easy to add extra benefits to all of our plans.</h2>
+            <h2 className="h2 font-asap-display text-slate-800">It's easy to add extra benefits to all of our plans.</h2>
           </div>
 
           {/* Items */}
@@ -59,7 +59,7 @@ function PricingFeatures() {
                 <use fill="#000" filter="url(#fbp1-h)" xlinkHref="#fbp1-i" />
                 <use fill="url(#fbp1-g)" xlinkHref="#fbp1-i" />
               </svg>
-              <h3 className="h4 font-playfair-display mb-2">Workers' Wallet</h3>
+              <h3 className="h4 font-asap-display mb-2">Workers' Wallet</h3>
               <p className="text-lg text-slate-500 mb-3">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
               <div className="font-medium text-slate-800">From $6/mo per participant. No setup fee</div>
             </div>
@@ -101,7 +101,7 @@ function PricingFeatures() {
                 <use fill="#000" filter="url(#fbp2-e)" xlinkHref="#fbp2-f" />
                 <use fill="url(#fbp2-g)" xlinkHref="#fbp2-f" />
               </svg>
-              <h3 className="h4 font-playfair-display mb-2">Workers' Wallet</h3>
+              <h3 className="h4 font-asap-display mb-2">Workers' Wallet</h3>
               <p className="text-lg text-slate-500 mb-3">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
               <div className="font-medium text-slate-800">From $6/mo per participant. No setup fee</div>
             </div>
@@ -152,7 +152,7 @@ function PricingFeatures() {
                 <use fill="#000" filter="url(#fbp3-h)" xlinkHref="#fbp3-i" />
                 <use fillOpacity=".64" fill="#BFDBFE" xlinkHref="#fbp3-i" />
               </svg>
-              <h3 className="h4 font-playfair-display mb-2">Workers' Wallet</h3>
+              <h3 className="h4 font-asap-display mb-2">Workers' Wallet</h3>
               <p className="text-lg text-slate-500 mb-3">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
               <div className="font-medium text-slate-800">From $6/mo per participant. No setup fee</div>
             </div>

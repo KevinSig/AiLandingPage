@@ -17,7 +17,7 @@ function FeaturesHome03() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 font-playfair-display text-slate-100">Simplify operating and manage with transparency</h2>
+            <h2 className="h2 font-asap-display text-slate-100">Simplify operating and manage with transparency</h2>
           </div>
 
           {/* Section content */}
@@ -36,7 +36,7 @@ function FeaturesHome03() {
                   </svg>
                 </div>
               </Link>
-              <h3 className="h4 font-playfair-display mb-2">
+              <h3 className="h4 font-asap-display mb-2">
                 <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="#0">Advanced Features</Link>
               </h3>
               <p className="text-lg text-slate-500">Lorem ipsum is placeholder text used in the graphic, print, and publishing for previewing layouts.</p>
@@ -55,7 +55,7 @@ function FeaturesHome03() {
                   </svg>
                 </div>
               </Link>
-              <h3 className="h4 font-playfair-display mb-2">
+              <h3 className="h4 font-asap-display mb-2">
                 <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="#0">Advanced Features</Link>
               </h3>
               <p className="text-lg text-slate-500">Lorem ipsum is placeholder text used in the graphic, print, and publishing for previewing layouts.</p>
@@ -74,7 +74,7 @@ function FeaturesHome03() {
                   </svg>
                 </div>
               </Link>
-              <h3 className="h4 font-playfair-display mb-2">
+              <h3 className="h4 font-asap-display mb-2">
                 <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="#0">Advanced Features</Link>
               </h3>
               <p className="text-lg text-slate-500">Lorem ipsum is placeholder text used in the graphic, print, and publishing for previewing layouts.</p>

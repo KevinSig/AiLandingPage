@@ -45,7 +45,7 @@ function FeaturesBlocks() {
                 <use fill="#000" filter="url(#fb1-d)" xlinkHref="#fb1-e" />
                 <use fillOpacity=".64" fill="#E2EEFF" xlinkHref="#fb1-e" />
               </svg>
-              <h3 className="h4 font-playfair-display mb-2">Robust Workflow</h3>
+              <h3 className="h4 font-asap-display mb-2">Robust Workflow</h3>
               <p className="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
             </div>
 
@@ -82,7 +82,7 @@ function FeaturesBlocks() {
                 </g>
                 <path d="M32.5 36a3.5 3.5 0 110-7 3.5 3.5 0 010 7z" fillOpacity=".64" fill="#5091EE" />
               </svg>
-              <h3 className="h4 font-playfair-display mb-2">Robust Workflow</h3>
+              <h3 className="h4 font-asap-display mb-2">Robust Workflow</h3>
               <p className="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
             </div>
 
@@ -114,7 +114,7 @@ function FeaturesBlocks() {
                 <use fill="#000" filter="url(#fb3-c)" xlinkHref="#fb3-d" />
                 <use fill="url(#fb3-e)" xlinkHref="#fb3-d" />
               </svg>
-              <h3 className="h4 font-playfair-display mb-2">Robust Workflow</h3>
+              <h3 className="h4 font-asap-display mb-2">Robust Workflow</h3>
               <p className="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
             </div>
 
@@ -146,7 +146,7 @@ function FeaturesBlocks() {
                 <use fill="#000" filter="url(#fb4-d)" xlinkHref="#fb4-e" />
                 <use fillOpacity=".64" fill="#E2EEFF" xlinkHref="#fb4-e" />
               </svg>
-              <h3 className="h4 font-playfair-display mb-2">Robust Workflow</h3>
+              <h3 className="h4 font-asap-display mb-2">Robust Workflow</h3>
               <p className="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
             </div>
 
@@ -178,7 +178,7 @@ function FeaturesBlocks() {
                 <use fill="#000" filter="url(#fb5-c)" xlinkHref="#fb5-d" />
                 <use fill="url(#fb5-e)" xlinkHref="#fb5-d" />
               </svg>
-              <h3 className="h4 font-playfair-display mb-2">Robust Workflow</h3>
+              <h3 className="h4 font-asap-display mb-2">Robust Workflow</h3>
               <p className="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
             </div>
 
@@ -210,7 +210,7 @@ function FeaturesBlocks() {
                 <use fill="#000" filter="url(#fb6-d)" xlinkHref="#fb6-e" />
                 <use fillOpacity=".64" fill="#E2EEFF" xlinkHref="#fb6-e" />
               </svg>
-              <h3 className="h4 font-playfair-display mb-2">Robust Workflow</h3>
+              <h3 className="h4 font-asap-display mb-2">Robust Workflow</h3>
               <p className="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
             </div>
             

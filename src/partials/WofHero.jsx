@@ -18,7 +18,7 @@ function WofHero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-16">
-            <h1 className="h1 font-playfair-display text-slate-100 mb-4">Join 70K+ companies and investors</h1>
+            <h1 className="h1 font-asap-display text-slate-100 mb-4">Join 70K+ companies and investors</h1>
             <p className="text-xl text-slate-400">We're proud to have played a part in these amazing journeys.</p>
           </div>
 

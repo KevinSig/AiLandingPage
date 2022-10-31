@@ -10,7 +10,7 @@ function Faqs() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 font-playfair-display text-slate-800">Frequently Asked Questions</h2>
+            <h2 className="h2 font-asap-display text-slate-800">Frequently Asked Questions</h2>
           </div>
 
           {/* Faqs */}

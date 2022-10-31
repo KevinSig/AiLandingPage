@@ -19,7 +19,7 @@ function Accordion({
   return (
     <Component>
       <button
-        className="h4 font-playfair-display flex items-center justify-between w-full text-left py-5"
+        className="h4 font-asap-display flex items-center justify-between w-full text-left py-5"
         onClick={(e) => { e.preventDefault(); setAccordionOpen(!accordionOpen); }}
         aria-expanded={accordionOpen}
       >

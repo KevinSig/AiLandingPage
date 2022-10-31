@@ -16,7 +16,7 @@ function Cta02() {
             </div>
 
             <div className="relative">
-              <h2 className="h2 font-playfair-display text-slate-800 mb-4">Want to be part of the journey?</h2>
+              <h2 className="h2 font-asap-display text-slate-800 mb-4">Want to be part of the journey?</h2>
               <p className="text-xl text-slate-500 mb-8">We are always open to talk to great people who want to help us shape the future of work, and we have job openings all over the world.</p>
               <div>
                 <Link className="btn text-white bg-blue-600 hover:bg-blue-700 group" to="#0">

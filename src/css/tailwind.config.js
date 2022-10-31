@@ -8,7 +8,7 @@ module.exports = {
     extend: {
       colors: {
         slate: {
-          900: '#101D2D',
+          900: '#31363C',
         },
         blue: {
           500: '#5696FF',
@@ -16,8 +16,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        inter: ['Inter', 'sans-serif'],
-        'playfair-display': ['Playfair Display', 'serif'],
+        karla: ['Karla', 'sans-serif'],
+        asap: ['Asap', 'sans-serif'],
       },
       fontSize: {
         xs: ['0.75rem', { lineHeight: '1.5' }],

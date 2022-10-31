@@ -12,7 +12,7 @@ function RelatedStories() {
         <div className="py-12 md:py-16">
           {/* Section header */}
           <div className="max-w-3xl mx-auto mb-12">
-            <h2 className="h3 font-playfair-display text-slate-100">Related stories you might like:</h2>
+            <h2 className="h3 font-asap-display text-slate-100">Related stories you might like:</h2>
           </div>
           {/* Stories container */}
           <div className="max-w-sm mx-auto sm:max-w-none grid gap-12 sm:grid-cols-2 md:grid-cols-3 sm:gap-x-6 sm:gap-y-8 items-start">

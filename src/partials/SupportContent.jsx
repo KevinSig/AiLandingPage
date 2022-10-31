@@ -30,7 +30,7 @@ function SupportContent() {
                 {/* Content */}
                 <div className="grow">
                   <header>
-                    <h2 className="h4 font-playfair-display mb-2">
+                    <h2 className="h4 font-asap-display mb-2">
                       <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="#0">Getting Started with Tidy</Link>
                     </h2>
                   </header>
@@ -59,7 +59,7 @@ function SupportContent() {
                 {/* Content */}
                 <div className="grow">
                   <header>
-                    <h2 className="h4 font-playfair-display mb-2">
+                    <h2 className="h4 font-asap-display mb-2">
                       <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="#0">Account Access and Billing</Link>
                     </h2>
                   </header>
@@ -88,7 +88,7 @@ function SupportContent() {
                 {/* Content */}
                 <div className="grow">
                   <header>
-                    <h2 className="h4 font-playfair-display mb-2">
+                    <h2 className="h4 font-asap-display mb-2">
                       <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="#0">Best Practices</Link>
                     </h2>
                   </header>
@@ -117,7 +117,7 @@ function SupportContent() {
                 {/* Content */}
                 <div className="grow">
                   <header>
-                    <h2 className="h4 font-playfair-display mb-2">
+                    <h2 className="h4 font-asap-display mb-2">
                       <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="#0">API</Link>
                     </h2>
                   </header>
@@ -144,7 +144,7 @@ function SupportContent() {
                 {/* Content */}
                 <div className="grow">
                   <header>
-                    <h2 className="h4 font-playfair-display mb-2">
+                    <h2 className="h4 font-asap-display mb-2">
                       <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="#0">Other Tools</Link>
                     </h2>
                   </header>

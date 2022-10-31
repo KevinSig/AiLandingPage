@@ -12,7 +12,7 @@ function BlogHero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center">
-            <h1 className="h1 font-playfair-display text-slate-100 mb-4">Several People Are Typing</h1>
+            <h1 className="h1 font-asap-display text-slate-100 mb-4">Several People Are Typing</h1>
             <p className="text-xl text-slate-400 mb-8">Lessons designed to help you kick start and grow your business and turn your idea into a thriving empire.</p>
             {/* Subscribe form */}
             <form>

@@ -26,7 +26,7 @@ function Customers() {
               
               {/* Content */}
               <div className="md:min-w-[30rem]" data-aos="fade-left">
-                <h2 className="h3 md:text-4xl font-playfair-display mb-4">
+                <h2 className="h3 md:text-4xl font-asap-display mb-4">
                   <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/wall-of-love-single">Black Inc.</Link>
                 </h2>
                 <p className="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Award-winning design firm Black Inc. didn't get the personalized approach they wanted from colloboration tools - until they met Tidy.</p>
@@ -34,7 +34,7 @@ function Customers() {
                   <svg className="fill-blue-600" width="20" height="16" viewBox="0 0 20 16">
                     <path d="M2.76 16c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.613-2.272-1.748-2.272s-2.27.726-3.283 1.64C3.16 6.439 5.613 3.346 9.571.885L9.233 0C3.466 2.903 0 7.732 0 12.213 0 14.517.828 16 2.76 16Zm10.43 0c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.614-2.272-1.749-2.272-1.135 0-2.27.726-3.282 1.64.276-2.934 2.73-6.027 6.687-8.488L19.663 0c-5.767 2.903-9.234 7.732-9.234 12.213 0 2.304.829 3.787 2.761 3.787Z" />
                   </svg>
-                  <blockquote className="font-playfair-display text-slate-500 italic">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur e xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</blockquote>
+                  <blockquote className="font-asap-display text-slate-500 italic">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur e xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</blockquote>
                 </div>
                 <div className="flex items-center mt-4">
                   <Link to="#0">
@@ -69,7 +69,7 @@ function Customers() {
               
               {/* Content */}
               <div className="md:min-w-[30rem]" data-aos="fade-left">
-                <h2 className="h3 md:text-4xl font-playfair-display mb-4">
+                <h2 className="h3 md:text-4xl font-asap-display mb-4">
                   <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/wall-of-love-single">Leon Fibre S.r.l.</Link>
                 </h2>
                 <p className="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Professional communication studio Leon didn't get the personalized approach they wanted from colloboration tools - until they met Tidy.</p>
@@ -77,7 +77,7 @@ function Customers() {
                   <svg className="fill-blue-600" width="20" height="16" viewBox="0 0 20 16">
                     <path d="M2.76 16c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.613-2.272-1.748-2.272s-2.27.726-3.283 1.64C3.16 6.439 5.613 3.346 9.571.885L9.233 0C3.466 2.903 0 7.732 0 12.213 0 14.517.828 16 2.76 16Zm10.43 0c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.614-2.272-1.749-2.272-1.135 0-2.27.726-3.282 1.64.276-2.934 2.73-6.027 6.687-8.488L19.663 0c-5.767 2.903-9.234 7.732-9.234 12.213 0 2.304.829 3.787 2.761 3.787Z" />
                   </svg>
-                  <blockquote className="font-playfair-display text-slate-500 italic">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur e xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</blockquote>
+                  <blockquote className="font-asap-display text-slate-500 italic">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur e xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</blockquote>
                 </div>
                 <div className="flex items-center mt-4">
                   <Link to="#0">
@@ -112,7 +112,7 @@ function Customers() {
               
               {/* Content */}
               <div className="md:min-w-[30rem]" data-aos="fade-left">
-                <h2 className="h3 md:text-4xl font-playfair-display mb-4">
+                <h2 className="h3 md:text-4xl font-asap-display mb-4">
                   <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/wall-of-love-single">CD International</Link>
                 </h2>
                 <p className="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Award-winning design firm Black Inc. didn't get the personalized approach they wanted from colloboration tools - until they met Tidy.</p>
@@ -120,7 +120,7 @@ function Customers() {
                   <svg className="fill-blue-600" width="20" height="16" viewBox="0 0 20 16">
                     <path d="M2.76 16c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.613-2.272-1.748-2.272s-2.27.726-3.283 1.64C3.16 6.439 5.613 3.346 9.571.885L9.233 0C3.466 2.903 0 7.732 0 12.213 0 14.517.828 16 2.76 16Zm10.43 0c2.577 0 5.154-3.219 5.154-5.996 0-1.357-.614-2.272-1.749-2.272-1.135 0-2.27.726-3.282 1.64.276-2.934 2.73-6.027 6.687-8.488L19.663 0c-5.767 2.903-9.234 7.732-9.234 12.213 0 2.304.829 3.787 2.761 3.787Z" />
                   </svg>
-                  <blockquote className="font-playfair-display text-slate-500 italic">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur e xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</blockquote>
+                  <blockquote className="font-asap-display text-slate-500 italic">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur e xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</blockquote>
                 </div>
                 <div className="flex items-center mt-4">
                   <Link to="#0">

@@ -18,7 +18,7 @@ function TeamMembers() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 font-playfair-display text-slate-800">What do we value? All sorts of things!</h2>
+            <h2 className="h2 font-asap-display text-slate-800">What do we value? All sorts of things!</h2>
           </div>
 
           {/* Team members */}
@@ -29,7 +29,7 @@ function TeamMembers() {
               <div className="inline-flex mb-4">
                 <img className="rounded-full" src={TeamMemberImage01} width="120" height="120" alt="Member 01" />
               </div>
-              <h4 className="h4 font-playfair-display text-slate-800 mb-2">Mark Lamprecht</h4>
+              <h4 className="h4 font-asap-display text-slate-800 mb-2">Mark Lamprecht</h4>
               <div className="font-medium text-blue-600">CEO &amp; Co-founder</div>
             </div>
 
@@ -38,7 +38,7 @@ function TeamMembers() {
               <div className="inline-flex mb-4">
                 <img className="rounded-full" src={TeamMemberImage02} width="120" height="120" alt="Member 02" />
               </div>
-              <h4 className="h4 font-playfair-display text-slate-800 mb-2">Elisa Nguyen</h4>
+              <h4 className="h4 font-asap-display text-slate-800 mb-2">Elisa Nguyen</h4>
               <div className="font-medium text-blue-600">Co-Founder, Lead Engineer</div>
             </div>
 
@@ -47,7 +47,7 @@ function TeamMembers() {
               <div className="inline-flex mb-4">
                 <img className="rounded-full" src={TeamMemberImage03} width="120" height="120" alt="Member 03" />
               </div>
-              <h4 className="h4 font-playfair-display text-slate-800 mb-2">Travis Stephens</h4>
+              <h4 className="h4 font-asap-display text-slate-800 mb-2">Travis Stephens</h4>
               <div className="font-medium text-blue-600">Senior Software Engineer</div>
             </div>
 
@@ -56,7 +56,7 @@ function TeamMembers() {
               <div className="inline-flex mb-4">
                 <img className="rounded-full" src={TeamMemberImage04} width="120" height="120" alt="Member 04" />
               </div>
-              <h4 className="h4 font-playfair-display text-slate-800 mb-2">Cameron Mckay</h4>
+              <h4 className="h4 font-asap-display text-slate-800 mb-2">Cameron Mckay</h4>
               <div className="font-medium text-blue-600">Senior UX/UI Designer</div>
             </div>
 
@@ -65,7 +65,7 @@ function TeamMembers() {
               <div className="inline-flex mb-4">
                 <img className="rounded-full" src={TeamMemberImage05} width="120" height="120" alt="Member 05" />
               </div>
-              <h4 className="h4 font-playfair-display text-slate-800 mb-2">Patricia Curnock</h4>
+              <h4 className="h4 font-asap-display text-slate-800 mb-2">Patricia Curnock</h4>
               <div className="font-medium text-blue-600">Software Engineer</div>
             </div>
 
@@ -74,7 +74,7 @@ function TeamMembers() {
               <div className="inline-flex mb-4">
                 <img className="rounded-full" src={TeamMemberImage06} width="120" height="120" alt="Member 06" />
               </div>
-              <h4 className="h4 font-playfair-display text-slate-800 mb-2">Amanda Danish</h4>
+              <h4 className="h4 font-asap-display text-slate-800 mb-2">Amanda Danish</h4>
               <div className="font-medium text-blue-600">Business Development</div>
             </div>
 
@@ -83,7 +83,7 @@ function TeamMembers() {
               <div className="inline-flex mb-4">
                 <img className="rounded-full" src={TeamMemberImage07} width="120" height="120" alt="Member 07" />
               </div>
-              <h4 className="h4 font-playfair-display text-slate-800 mb-2">Zoltan Jackson</h4>
+              <h4 className="h4 font-asap-display text-slate-800 mb-2">Zoltan Jackson</h4>
               <div className="font-medium text-blue-600">Marketing Manager</div>
             </div>
 
@@ -92,7 +92,7 @@ function TeamMembers() {
               <div className="inline-flex mb-4">
                 <img className="rounded-full" src={TeamMemberImage08} width="120" height="120" alt="Member 08" />
               </div>
-              <h4 className="h4 font-playfair-display text-slate-800 mb-2">Sara Tolinski</h4>
+              <h4 className="h4 font-asap-display text-slate-800 mb-2">Sara Tolinski</h4>
               <div className="font-medium text-blue-600">Community Manager</div>
             </div>
 

@@ -42,7 +42,7 @@ function BlogList() {
               {/* Content */}
               <div className="md:w-1/2" data-aos="fade-up">
                 <header>
-                  <h2 className="h4 md:text-4xl lg:text-5xl font-playfair-display mb-3">
+                  <h2 className="h4 md:text-4xl lg:text-5xl font-asap-display mb-3">
                     <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/blog-post">How startups can sell more using smart channels</Link>
                   </h2>
                 </header>
@@ -73,7 +73,7 @@ function BlogList() {
 
             {/* Latest */}
             <div>
-              <h2 className="h3 font-playfair-display text-center md:text-left mb-8">Latest</h2>
+              <h2 className="h3 font-asap-display text-center md:text-left mb-8">Latest</h2>
 
               {/* Articles container */}
               <div className="max-w-sm mx-auto md:max-w-none grid gap-12 md:grid-cols-3 md:gap-x-6 md:gap-y-8 items-start">
@@ -87,7 +87,7 @@ function BlogList() {
                   {/* Content */}
                   <div className="grow flex flex-col">
                     <header>
-                      <h3 className="h4 font-playfair-display mb-3">
+                      <h3 className="h4 font-asap-display mb-3">
                         <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/blog-post">A sneak peek of the new Tidy Web Portal</Link>
                       </h3>
                     </header>
@@ -114,7 +114,7 @@ function BlogList() {
                   {/* Content */}
                   <div className="grow flex flex-col">
                     <header>
-                      <h3 className="h4 font-playfair-display mb-3">
+                      <h3 className="h4 font-asap-display mb-3">
                         <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/blog-post">40+ creative content ideas to post on your blog</Link>
                       </h3>
                     </header>
@@ -141,7 +141,7 @@ function BlogList() {
                   {/* Content */}
                   <div className="grow flex flex-col">
                     <header>
-                      <h3 className="h4 font-playfair-display mb-3">
+                      <h3 className="h4 font-asap-display mb-3">
                         <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/blog-post">The best marketing channels to promote your products</Link>
                       </h3>
                     </header>
@@ -164,7 +164,7 @@ function BlogList() {
 
             {/* Popular */}
             <div>
-              <h2 className="h3 font-playfair-display text-center md:text-left mb-8">Popular</h2>
+              <h2 className="h3 font-asap-display text-center md:text-left mb-8">Popular</h2>
 
               {/* Articles container */}
               <div className="max-w-sm mx-auto md:max-w-none grid gap-12 md:grid-cols-3 md:gap-x-6 md:gap-y-8 items-start">
@@ -178,7 +178,7 @@ function BlogList() {
                   {/* Content */}
                   <div className="grow flex flex-col">
                     <header>
-                      <h3 className="h4 font-playfair-display mb-3">
+                      <h3 className="h4 font-asap-display mb-3">
                         <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/blog-post">Where to Post Remote Jobs for Developers for Free</Link>
                       </h3>
                     </header>
@@ -205,7 +205,7 @@ function BlogList() {
                   {/* Content */}
                   <div className="grow flex flex-col">
                     <header>
-                      <h3 className="h4 font-playfair-display mb-3">
+                      <h3 className="h4 font-asap-display mb-3">
                         <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/blog-post">4 Must-Know Skill to Be an Effective Leader</Link>
                       </h3>
                     </header>
@@ -232,7 +232,7 @@ function BlogList() {
                   {/* Content */}
                   <div className="grow flex flex-col">
                     <header>
-                      <h3 className="h4 font-playfair-display mb-3">
+                      <h3 className="h4 font-asap-display mb-3">
                         <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/blog-post">Remote founder stand-up with Mark Muller</Link>
                       </h3>
                     </header>
@@ -266,7 +266,7 @@ function BlogList() {
 
                   {/* CTA content */}
                   <div className="text-center lg:text-left lg:max-w-xl">
-                    <h3 className="h3 font-playfair-display text-slate-100 mb-8">Say goodbye to long queues, big updates, and <span className="text-emerald-500">confusion</span>.</h3>
+                    <h3 className="h3 font-asap-display text-slate-100 mb-8">Say goodbye to long queues, big updates, and <span className="text-emerald-500">confusion</span>.</h3>
                     <div className="mb-3">
                       <Link className="btn text-white bg-blue-600 hover:bg-blue-700 group" to="#0">
                         Start free trial <span className="tracking-normal text-blue-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
@@ -282,7 +282,7 @@ function BlogList() {
 
             {/* Product & News */}
             <div>
-              <h2 className="h3 font-playfair-display text-center md:text-left mb-8">Product &amp; News</h2>
+              <h2 className="h3 font-asap-display text-center md:text-left mb-8">Product &amp; News</h2>
 
               {/* Articles container */}
               <div className="max-w-sm mx-auto md:max-w-none grid gap-12 md:grid-cols-3 md:gap-x-6 md:gap-y-8 items-start">
@@ -296,7 +296,7 @@ function BlogList() {
                   {/* Content */}
                   <div className="grow flex flex-col">
                     <header>
-                      <h3 className="h4 font-playfair-display mb-3">
+                      <h3 className="h4 font-asap-display mb-3">
                         <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/blog-post">How to level up your marketing strategy with Tidy Pro</Link>
                       </h3>
                     </header>
@@ -323,7 +323,7 @@ function BlogList() {
                   {/* Content */}
                   <div className="grow flex flex-col">
                     <header>
-                      <h3 className="h4 font-playfair-display mb-3">
+                      <h3 className="h4 font-asap-display mb-3">
                         <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/blog-post">Introducing the Tidy mentor Network</Link>
                       </h3>
                     </header>
@@ -350,7 +350,7 @@ function BlogList() {
                   {/* Content */}
                   <div className="grow flex flex-col">
                     <header>
-                      <h3 className="h4 font-playfair-display mb-3">
+                      <h3 className="h4 font-asap-display mb-3">
                         <Link className="text-slate-800 hover:underline hover:decoration-blue-100" to="/blog-post">Elevating collaboration with Tidy and Google Workspace</Link>
                       </h3>
                     </header>

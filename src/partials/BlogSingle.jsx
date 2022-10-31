@@ -22,7 +22,7 @@ function BlogSingle() {
                 {/* Title and excerpt */}
                 <div className="text-center md:text-left">
                   <Link className="inline-flex font-semibold text-blue-600 hover:text-blue-500 transition duration-150 ease-in-out group mb-2" to="/blog" data-aos="fade-down"><span className="tracking-normal text-blue-600 group-hover:-translate-x-0.5 transition-transform duration-150 ease-in-out mr-1">&lt;-</span> Back to Blog</Link>
-                  <h1 className="h2 font-playfair-display text-slate-100 mb-6">Introducing the Market Builder Tool</h1>
+                  <h1 className="h2 font-asap-display text-slate-100 mb-6">Introducing the Market Builder Tool</h1>
                 </div>
                 {/* Article meta */}
                 <div className="md:flex md:items-center md:justify-between mt-3" data-aos="fade-up">
@@ -94,14 +94,14 @@ function BlogSingle() {
                 <circle cx="34" cy="2" r="2" />
               </svg>
             </div>
-            <h2 className="h3 font-playfair-display text-slate-800 mb-4">1 / Adaptation of the mobile version</h2>
+            <h2 className="h3 font-asap-display text-slate-800 mb-4">1 / Adaptation of the mobile version</h2>
             <p className="mb-8">
               Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat auctor urna nunc id cursus metus aliquam eleifend, arcu dictum varius duis at consectetur lorem donec massa sapien, sed risus ultricies tristique nulla aliquet.
             </p>
             <figure className="mb-8 lg:-ml-32 lg:-mr-32">
               <img className="w-full" src={NewsInnerImage} width="1024" height="576" alt="News inner" />
             </figure>
-            <h3 className="h4 font-playfair-display text-slate-800 mb-4">Why this change seems mostly visual</h3>
+            <h3 className="h4 font-asap-display text-slate-800 mb-4">Why this change seems mostly visual</h3>
             <p className="mb-8">
               Et leo duis ut diam quam nulla porttitor porttitor lacus luctus accumsan tortor, lorem dolor sed viverra ipsum nunc aliquet bibendum enim eu augue ut lectus arcu bibendum at. Non sodales neque sodales ut etiam sit. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam.
             </p>
@@ -112,7 +112,7 @@ function BlogSingle() {
                 <circle cx="34" cy="2" r="2" />
               </svg>
             </div>
-            <h2 className="h3 font-playfair-display text-slate-800 mb-4">2 / Streamline the experience with custom flows</h2>
+            <h2 className="h3 font-asap-display text-slate-800 mb-4">2 / Streamline the experience with custom flows</h2>
             <p className="mb-8">
               Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat auctor urna nunc id cursus metus aliquam eleifend, arcu dictum varius duis at consectetur lorem donec massa sapien, sed risus ultricies tristique nulla aliquet. Morbi tristique senectus et netus et, nibh nisl condimentum id venenatis a condimentum vitae sapien.
             </p>
@@ -129,7 +129,7 @@ function BlogSingle() {
                 <circle cx="34" cy="2" r="2" />
               </svg>
             </div>
-            <h2 className="h3 font-playfair-display text-slate-800 mb-4">3 / Simplified navigation flow</h2>
+            <h2 className="h3 font-asap-display text-slate-800 mb-4">3 / Simplified navigation flow</h2>
             <p className="mb-8">
               Arcu dictum varius duis at consectetur lorem donec massa sapien, sed risus ultricies tristique nulla aliquet.
             </p>
@@ -146,7 +146,7 @@ function BlogSingle() {
                 <circle cx="34" cy="2" r="2" />
               </svg>
             </div>
-            <h2 className="h3 font-playfair-display text-slate-800 mb-4">Handy tools</h2>
+            <h2 className="h3 font-asap-display text-slate-800 mb-4">Handy tools</h2>
             <p className="mb-8">
               Arcu dictum varius duis at consectetur lorem donec massa sapien, sed risus ultricies tristique nulla aliquet:
             </p>
