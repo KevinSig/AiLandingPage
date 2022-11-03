@@ -3,7 +3,7 @@ import React from 'react';
 function BlogTags() {
   return (
     <section>
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="w-full flex items-center justify-between space-x-10 overflow-x-scroll no-scrollbar py-5 border-b border-slate-100">
           <div className="w-full flex items-center justify-between space-x-10">
             <ul className="flex md:flex-wrap -mx-5 -my-2">

@@ -12,11 +12,12 @@ import galaxus from '../images/galaxus.png'
 function SocialProof() {
   return (
     <section className='relative'>
+      
       <div
-        className='absolute inset-0 bg-slate-50 pointer-events-none -z-10 '
+        className='absolute inset-0 bg-slate-50 pointer-events-none -z-10 border-t border-b border-slate-200'
         aria-hidden='true'
       ></div>
-      <div className='relative max-w-6xl mx-auto px-4 sm:px-6 '>
+      <div className='relative max-w-7xl mx-auto px-4 sm:px-6 '>
         <div className='py-12 md:py-4'>
           {/* Section header */}
           <div className='max-w-3xl mx-auto text-center pb-10'>

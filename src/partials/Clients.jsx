@@ -3,7 +3,7 @@ import React from 'react';
 function Clients() {
   return (
     <section>
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="py-8 md:pt-12 md:pb-14">
 
           {/* Items */}

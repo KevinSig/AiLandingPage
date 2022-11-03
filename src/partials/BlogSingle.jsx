@@ -14,7 +14,7 @@ function BlogSingle() {
         {/* Dark background */}
         <div className="absolute inset-0 bg-slate-900 pointer-events-none -z-10 mb-36 lg:mb-0 lg:h-[48rem] [clip-path:polygon(0_0,_5760px_0,_5760px_calc(100%_-_352px),_0_100%)]" aria-hidden="true"></div>
 
-        <div className="relative max-w-6xl mx-auto px-4 sm:px-6">
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6">
           <div className="pt-32 md:pt-40 pb-8">
             <div className="max-w-3xl mx-auto">
 
@@ -77,7 +77,7 @@ function BlogSingle() {
       </header>
 
       {/* Article content */}
-      <div className="relative max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6">
         <div className="max-w-3xl mx-auto">
 
           <div className="text-lg text-slate-500">

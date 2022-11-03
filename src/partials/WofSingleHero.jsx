@@ -14,7 +14,7 @@ function WofSingleHero() {
         </div>
       </div>
 
-      <div className="relative max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6">
         <div className="pt-32 pb-28 md:pt-40 md:pb-36">
 
           {/* Section header */}

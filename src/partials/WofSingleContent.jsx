@@ -5,7 +5,7 @@ import SingleImage from '../images/wof-single.jpg';
 function WofSingleContent() {
   return (
     <section>
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="py-12 md:pt-20 md:pb-16">
 
           <div className="max-w-3xl mx-auto">

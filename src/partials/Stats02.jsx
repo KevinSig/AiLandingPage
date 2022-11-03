@@ -4,7 +4,7 @@ function Stats02() {
   return (
     <section className="-translate-y-1/2">
 
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="max-w-3xl mx-auto">
 
           <div className="bg-blue-600 py-3 sm:py-6 shadow-xl">

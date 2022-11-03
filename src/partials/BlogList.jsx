@@ -25,7 +25,7 @@ function BlogList() {
       {/* Sticky article */}
       <section>
 
-        <div className="max-w-6xl mx-auto px-4 sm:px-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="py-8 md:py-16">
 
             <article className="max-w-sm mx-auto space-y-5 md:max-w-none md:flex md:items-center md:space-y-0 md:space-x-8 lg:space-x-16">
@@ -68,7 +68,7 @@ function BlogList() {
       {/* All articles */}
       <section className="bg-slate-50">
 
-        <div className="max-w-6xl mx-auto px-4 sm:px-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="py-8 md:py-16 space-y-16">
 
             {/* Latest */}

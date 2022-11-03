@@ -11,7 +11,7 @@ import TestimonialImage06 from '../images/testimonial-06.jpg';
 function Testimonials() {
   return (
     <section className="bg-slate-50">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
