@@ -21,16 +21,17 @@ function HeroHome() {
             <div data-aos='fade-left'>
               <div className='flex justify-center items-center'>
                 <div className='relative'>
-                  <div
+                  {/* <div
                     className='absolute inset-0 rounded-xl pointer-events-none border-2 border-slate-700 mb-3 mr-3 -translate-x-4 -translate-y-4 -z-10'
                     aria-hidden='true'
-                  ></div>
+                  ></div> */}
                   <img
                     className='mx-auto md:max-w-none'
                     src={HeroImage}
                     width='640px'
                     height='405px'
                     alt='Hero'
+                    style={{boxShadow: "rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px"}}
                   />
                 </div>
               </div>
