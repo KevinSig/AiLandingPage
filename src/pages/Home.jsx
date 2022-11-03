@@ -38,10 +38,14 @@ function Home() {
         {/* <FeaturesHome02 /> */}
         
         {/* <FeaturesHome /> */}
-        <FeaturesHome03 />
-        <Target />
+
+        {/* <FeaturesHome03 /> */}
+
+
+        {/* <Target /> */}
         {/* <PricingSection /> */}
         {/* <FAQS /> */}
+
         <Cta />
       </main>
 

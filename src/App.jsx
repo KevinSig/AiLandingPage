@@ -11,16 +11,16 @@ import './css/style.css';
 import AOS from 'aos';
 
 import Home from './pages/Home';
-import Pricing from './pages/Pricing';
-import About from './pages/About';
-import Blog from './pages/Blog';
-import BlogPost from './pages/BlogPost';
-import WallOfLove from './pages/WallOfLove';
-import WallOfLoveSingle from './pages/WallOfLoveSingle';
-import Support from './pages/Support';
-import SignIn from './pages/SignIn';
-import ResetPassword from './pages/ResetPassword';
-import RequestDemo from './pages/RequestDemo';
+// import Pricing from './pages/Pricing';
+// import About from './pages/About';
+// import Blog from './pages/Blog';
+// import BlogPost from './pages/BlogPost';
+// import WallOfLove from './pages/WallOfLove';
+// import WallOfLoveSingle from './pages/WallOfLoveSingle';
+// import Support from './pages/Support';
+// import SignIn from './pages/SignIn';
+// import ResetPassword from './pages/ResetPassword';
+// import RequestDemo from './pages/RequestDemo';
 import PageNotFound from './pages/PageNotFound';
 
 function App() {
@@ -46,7 +46,7 @@ function App() {
     <>
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route path="/pricing" element={<Pricing />} />
+        {/* <Route path="/pricing" element={<Pricing />} />
         <Route path="/about" element={<About />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog-post" element={<BlogPost />} />
@@ -55,7 +55,7 @@ function App() {
         <Route path="/support" element={<Support />} />
         <Route path="/signin" element={<SignIn />} />
         <Route path="/reset-password" element={<ResetPassword />} />
-        <Route path="/request-demo" element={<RequestDemo />} />
+        <Route path="/request-demo" element={<RequestDemo />} /> */}
         <Route path="*" element={<PageNotFound />} />
       </Routes>
     </>

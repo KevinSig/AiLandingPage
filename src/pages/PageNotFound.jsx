@@ -38,7 +38,7 @@ function PageNotFound() {
 
 
       {/*  Site footer */}
-      <Footer />
+      {/* <Footer /> */}
 
     </div>
   );

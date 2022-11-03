@@ -27,14 +27,14 @@ function HeroHome() {
                 <h1 className="h1 font-asap-display text-slate-900 mb-4">Instantly increase sales. Guaranteed.</h1>
                 <p className="text-xl text-slate-800 mb-8">Turn every visit into a sale with Google Retail AI. Sell more to your existing customers and convert first time visitors into repeat buyers.</p>
                 <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4">
-                  <div>
-                    <Link className="btn text-white bg-blue-600 hover:bg-blue-700 w-full group" to="/request-demo">
-                      Request Demo <span className="tracking-normal text-blue-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-                    </Link>
-                  </div>
-                  <div>
+                  
+                    <div className="btn text-white bg-blue-600 hover:bg-blue-700  " style={{width:"50%"}} onClick={(e) => { e.preventDefault(); e.stopPropagation(); setVideoModalOpen(true); }}>
+                      Sign Up <span className="tracking-normal text-blue-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+                    </div>
+                  
+                  {/* <div>
                     <Link className="btn text-white bg-slate-700 hover:bg-slate-800 w-full" to="#0">Explore Product</Link>
-                  </div>
+                  </div> */}
                 </div>
               </div>
 
@@ -56,16 +56,17 @@ function HeroHome() {
 
                 {/* Modal */}
                 <Modal id="modal" ariaLabel="modal-headline" show={videoModalOpen} handleClose={() => setVideoModalOpen(false)}>
-                  <div className="relative pb-9/16">
-                  <iframe className="w-full aspect-video" src="https://player.vimeo.com/video/174002812" title="Video" allowFullScreen></iframe>
+                  <div className="relative flex content-center" style={{width:"640px"}}>
+                  {/* <iframe className="w-full aspect-video" src="https://player.vimeo.com/video/174002812" title="Video" allowFullScreen></iframe> */}
+                  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdG7NYmHjhrqBaPQNb8P7kcfPZwfZEs9gDHDF_mIt5-sj6oYA/viewform?embedded=true" width="640" height="944" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
                   </div>
                 </Modal>
-                
             </div>
           </div>
 
         </div>
       </div>
+        
     </section>
   );
 }

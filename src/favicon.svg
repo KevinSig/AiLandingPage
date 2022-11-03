@@ -14,8 +14,8 @@
 </defs>
 </svg> -->
 
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="27px" viewBox="0 0 31 27" version="1.1">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 31 27" version="1.1">
 <defs>
 <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="648.5" y1="-4.00001" x2="841" y2="166" gradientTransform="matrix(0.0353075,0,0,0.0364372,0,0)">
 <stop offset="0.276837" style="stop-color:rgb(65.098039%,29.019608%,89.411765%);stop-opacity:1;"/>
