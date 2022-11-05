@@ -41,7 +41,7 @@ function HeroHome() {
               className='text-center md:text-left md:min-w-[28rem]'
               data-aos='fade-right'
             >
-              <h2 className='h2 font-asap-display text-slate mb-4'>
+              <h2 className='animatedText h2 font-asap-display text-slate mb-4' style={{}}>
                 Sell More. Maximize Revenue Potential
               </h2>
               <ul class='list-disc'>

@@ -53,7 +53,13 @@
     background-size: 100% 100%;
   }
 
-
+.animatedText{
+    background-image: url(https://media.giphy.com/media/dAWZiSMbMvObDWP3aA/giphy.gif);
+	background-size: cover;
+	color: transparent;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+}
   
   .gradiantBG {
     /* filter: blur(1px); */
