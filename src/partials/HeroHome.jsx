@@ -13,7 +13,7 @@ function HeroHome() {
 
       {/* Dark background */}
       {/* <div className="absolute inset-0 bg-slate-900 pointer-events-none -z-10 [clip-path:polygon(0_0,_5760px_0,_5760px_calc(100%_-_352px),_0_100%)]" aria-hidden="true"></div> */}
-      <div className="parallelogram absolute inset-0 bg-slate-900 pointer-events-none -z-10  " aria-hidden="true"></div>
+      <div className="parallelogram absolute inset-0 white pointer-events-none -z-10  " aria-hidden="true"></div>
       {/* <div className="parallelogram absolute inset-0 bg-slate-900 pointer-events-none -z-10 " aria-hidden="true"></div> */}
 
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6">
